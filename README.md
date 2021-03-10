@@ -19,7 +19,7 @@ This section includes
 - WHILE LOOPS
 - F ELSE
 - FUCTIONS
-- OTIONAL TASK
+- OPTIONAL TASK
 
 ---
 
