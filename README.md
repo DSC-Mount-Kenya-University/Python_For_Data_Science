@@ -27,13 +27,14 @@ This section includes
 
 This bundle includes all we've covered in:
 
--CLASSES
--DICTIONARIES
--LISTS
--MIXED DATA TYPES
--NUMPY ARRAYS
--SETS
--Please note that some of these we haven't covered but are usually what i mean when i say go read some more :-)
+- CLASSES
+- DICTIONARIES
+- LISTS
+- MIXED DATA TYPES
+- NUMPY ARRAYS
+- SETS
+
+Please note that some of these we haven't covered but are usually what i mean when i say go read some more :-)
 
 ---
 
