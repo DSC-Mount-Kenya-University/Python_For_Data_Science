@@ -14,12 +14,12 @@ I have split it into 4 sections each with a good and detailed example opf what w
 These are the bare bone basics of python.
 This section includes
 
-> VARIABLES
-> FOR LOOPS
-> WHILE LOOPS
-> IF ELSE
-> FUNCTIONS
-> AN OPTIONAL TASK
+- VARIABLES
+- FOR LOOPS
+- WHILE LOOPS
+- F ELSE
+- FUCTIONS
+- OTIONAL TASK
 
 ---
 
@@ -27,13 +27,13 @@ This section includes
 
 This bundle includes all we've covered in:
 
-> CLASSES
-> DICTIONARIES
-> LISTS
-> MIXED DATA TYPES
-> NUMPY ARRAYS
-> SETS
-> Please note that some of these we haven't covered but are usually what i mean when i say go read some more :-)
+-CLASSES
+-DICTIONARIES
+-LISTS
+-MIXED DATA TYPES
+-NUMPY ARRAYS
+-SETS
+-Please note that some of these we haven't covered but are usually what i mean when i say go read some more :-)
 
 ---
 
